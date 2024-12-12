@@ -1,99 +1,127 @@
-# Task_Management_App
+## Task_Management_App
 
-# Demo Vedio Link : 
+## Demo Vedio Link : 
 https://drive.google.com/file/d/1i9OXQtIJuYYUyWrv_zm0zp9S3A5Qpl-a/view?usp=drive_link
 
-# Features
+## React + TypeScript + Vite
 
-Blazing fast build and development with Vite.
+This project is built using React, TypeScript, and Vite to provide a modern, fast, and efficient development experience. Below, you'll find instructions for cloning, installing dependencies, and running the application.
 
-Strongly typed code with TypeScript.
+## Table of Contents
 
-Modern React features and best practices.
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Running the Application](#running-the-application)
+- [Available Scripts](#available-scripts)
+- [Folder Structure](#folder-structure)
+- [Contributing](#contributing)
+- [License](#license)
 
-Modular and maintainable folder structure.
+## Features
 
-# Technologies Used
+- Blazing fast build and development with Vite.
+- Strongly typed code with TypeScript.
+- Modern React features and best practices.
+- Modular and maintainable folder structure.
 
-React: UI library for building user interfaces.
+## Technologies Used
 
-TypeScript: Adds static typing to JavaScript.
+- **React**: UI library for building user interfaces.
+- **TypeScript**: Adds static typing to JavaScript.
+- **Vite**: Next-generation frontend tooling.
 
-Vite: Next-generation frontend tooling.
+## Getting Started
 
-# Getting Started
-
-Prerequisites
+### Prerequisites
 
 Ensure you have the following installed on your system:
 
-Node.js (version 14 or higher recommended)
+- [Node.js](https://nodejs.org/) (version 14 or higher recommended)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) package manager
 
-npm or yarn package manager
+### Installation
 
-**Installation**
+1. **Clone the repository:**
 
-Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd <project-folder>
+   ```
 
-git clone <repository-url>
-cd <project-folder>
+2. **Install dependencies:**
 
-Install dependencies:
+   Using npm:
 
-Using npm:
+   ```bash
+   npm install
+   ```
 
-npm install
+   Or using yarn:
 
-Or using yarn:
+   ```bash
+   yarn install
+   ```
 
-yarn install
+### Running the Application
 
-# Running the Application
+1. **Start the development server:**
 
-Start the development server:
+   Using npm:
 
-Using npm:
+   ```bash
+   npm run dev
+   ```
 
-npm run dev
+   Or using yarn:
 
-Or using yarn:
+   ```bash
+   yarn dev
+   ```
 
-yarn dev
+2. Open your browser and navigate to [http://localhost:5173](http://localhost:5173).
 
-Open your browser and navigate to http://localhost:5173.
+### Building for Production
 
-Building for Production
+1. **Build the application:**
 
-Build the application:
+   Using npm:
 
-Using npm:
+   ```bash
+   npm run build
+   ```
 
-npm run build
+   Or using yarn:
 
-Or using yarn:
+   ```bash
+   yarn build
+   ```
 
-yarn build
+2. **Preview the production build:**
 
-Preview the production build:
+   Using npm:
 
-Using npm:
+   ```bash
+   npm run preview
+   ```
 
-npm run preview
+   Or using yarn:
 
-Or using yarn:
+   ```bash
+   yarn preview
+   ```
 
-yarn preview
+## Available Scripts
 
-# Available Scripts
+- `npm run dev` / `yarn dev`: Starts the development server.
+- `npm run build` / `yarn build`: Builds the project for production.
+- `npm run preview` / `yarn preview`: Previews the production build.
 
-npm run dev / yarn dev: Starts the development server.
+## Folder Structure
 
-npm run build / yarn build: Builds the project for production.
-
-npm run preview / yarn preview: Previews the production build.
-
-Folder Structure
-
+```
 ├── src
 │   ├── assets          # Static assets like images and fonts
 │   ├── components      # Reusable components
@@ -105,17 +133,14 @@ Folder Structure
 ├── vite.config.ts      # Vite configuration file
 ├── tsconfig.json       # TypeScript configuration file
 └── package.json        # Project metadata and dependencies
+```
 
-Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
-Fork the repository.
-
-Create a feature branch.
-
-Commit your changes.
-
-Push to the branch.
-
-Open a pull request.
+1. Fork the repository.
+2. Create a feature branch.
+3. Commit your changes.
+4. Push to the branch.
+5. Open a pull request.
