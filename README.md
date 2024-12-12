@@ -18,7 +18,6 @@ This project is built using React, TypeScript, and Vite to provide a modern, fas
 - [Available Scripts](#available-scripts)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
