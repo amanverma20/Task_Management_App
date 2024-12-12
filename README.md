@@ -1,5 +1,5 @@
 # Task_Management_App
-Features
+# Features
 
 Blazing fast build and development with Vite.
 
@@ -9,7 +9,7 @@ Modern React features and best practices.
 
 Modular and maintainable folder structure.
 
-Technologies Used
+# Technologies Used
 
 React: UI library for building user interfaces.
 
@@ -17,7 +17,7 @@ TypeScript: Adds static typing to JavaScript.
 
 Vite: Next-generation frontend tooling.
 
-Getting Started
+# Getting Started
 
 Prerequisites
 
@@ -27,7 +27,7 @@ Node.js (version 14 or higher recommended)
 
 npm or yarn package manager
 
-Installation
+**Installation**
 
 Clone the repository:
 
@@ -44,7 +44,7 @@ Or using yarn:
 
 yarn install
 
-Running the Application
+# Running the Application
 
 Start the development server:
 
@@ -80,7 +80,7 @@ Or using yarn:
 
 yarn preview
 
-Available Scripts
+# Available Scripts
 
 npm run dev / yarn dev: Starts the development server.
 
